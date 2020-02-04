@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="113840" started-at="2020-01-20T03:29:33Z" finished-at="2020-01-20T03:31:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="113840" started-at="2020-01-20T03:29:33Z" finished-at="2020-01-20T03:31:27Z">
+      <class name="driverFactory.NewTest">
+        <test-method status="PASS" signature="admintest()[pri:0, instance:driverFactory.NewTest@26be92ad]" name="admintest" is-config="true" duration-ms="12532" started-at="2020-01-20T08:59:33Z" finished-at="2020-01-20T08:59:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- admintest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:driverFactory.NewTest@26be92ad]" name="f" duration-ms="95188" started-at="2020-01-20T08:59:46Z" finished-at="2020-01-20T09:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:driverFactory.NewTest@26be92ad]" name="logout" is-config="true" duration-ms="6104" started-at="2020-01-20T09:01:21Z" finished-at="2020-01-20T09:01:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- driverFactory.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
